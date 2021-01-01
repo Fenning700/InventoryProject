@@ -1,5 +1,15 @@
 Simple Laravel inventory management application built with MYSQL DB.
 
+View from the /inventory route, showing all products in the database
+![plot](./Inventory.PNG)
+
+View from the /inventory/create route, allowing you to add a new product to the database
+![plot](./Inventory2.PNG)
+
+View from the /inventory/{id}/edit route, allowing you to make changes to the selected product
+![plot](./Inventory3.PNG)
+
+
 
 
 
